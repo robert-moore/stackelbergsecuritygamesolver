@@ -1,0 +1,33 @@
+{
+  "name": "stackelbergsecuritygamesolver",
+  "version": "1.0.0",
+  "description": "An implementation of the ERASER method to solve Stackelberg Security Games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcmoore38/stackelbergsecuritygamesolver.git"
+  },
+  "keywords": [
+    "Game",
+    "theory",
+    "stackelberg",
+    "security",
+    "equilibrium",
+    "attacker",
+    "defender"
+  ],
+  "author": "Robert Moore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcmoore38/stackelbergsecuritygamesolver/issues"
+  },
+  "homepage": "https://github.com/rcmoore38/stackelbergsecuritygamesolver#readme",
+  "dependencies": {
+    "d3": "^3.5.17",
+    "fs": "0.0.2",
+    "lodash": "^4.13.1"
+  }
+}
