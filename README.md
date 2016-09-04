@@ -1,6 +1,6 @@
 # Stackelberg Security Game Solver
 
-An implementation of the ERASER algorithm to solve Stackelberg Security Games. 
+An implementation of the [ERASER](http://teamcore.usc.edu/papers/2009/aamas-09-industry.pdf) algorithm to solve Stackelberg Security Games. 
 
 ## Motivation
 
